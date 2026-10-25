@@ -1,0 +1,2 @@
+Chicken&Chainsaws
+Makes Warptank movement tank-relative: right always drives the tank to its own right and left to its own left, so holding a direction keeps you going the same way around slopes, corners, and loops. D-pad up/down no longer move the tank.

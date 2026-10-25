@@ -1,0 +1,2 @@
+# ufo-50-warptank-movement
+Alternative movement scheme: right/left on the dpad move the tank right/left from the tank's perspective, respectively. Up/down on the dpad has no effect.
